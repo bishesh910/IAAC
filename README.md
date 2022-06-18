@@ -1,1 +1,2 @@
 # IAAC
+In this we have done some automated provisioning. We can say this as Infrastucture as a Code(IAAC). IAAC are very necessary since it saves you alot of time and effort. But to do everything automatically it is also to necessary to learn to do it manaully. The Folder IAAC contains of two sub folders in which one IAAC is done for a normal webiste (locally hosted) and another one is done for wordpress site(Locally hosted). Users just need to do 'vagrant up'.
